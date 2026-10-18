@@ -12,12 +12,12 @@
 
 I build products end to end with **TypeScript, React, Next.js, Node.js and FastAPI**, and I like putting LLMs to work in places where the code can still check their answers. At **[CodeChef-VIT](https://github.com/CodeChefVIT)** I work on student tools that thousands of people use every semester. I also build ML projects on the security side: anomaly detection on network traffic and container syscalls.
 
-- 🤖 Building **LLM agents** with LangGraph, plus RAG pipelines on vector databases
-- 🎓 Shipping for students at **CodeChef-VIT**: FFCS timetable planner, papers platform
-- 🛡️ Into **explainable ML for security**: eBPF, anomaly detection, SHAP
-- 🎨 I design too: Figma, wireframes, prototypes
-- 💬 Ask me about agents that plan while code verifies, RAG, or Next.js
-- 📫 How to reach me: **[krishitaguptaa@gmail.com](mailto:krishitaguptaa@gmail.com)**
+- Building **LLM agents** with LangGraph, plus RAG pipelines on vector databases
+- Shipping for students at **CodeChef-VIT**: FFCS timetable planner, papers platform
+- Into **explainable ML for security**: eBPF, anomaly detection, SHAP
+- I design too: Figma, wireframes, prototypes
+- Ask me about agents that plan while code verifies, RAG, or Next.js
+- How to reach me: **[krishitaguptaa@gmail.com](mailto:krishitaguptaa@gmail.com)**
 
 ---
 
