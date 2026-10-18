@@ -16,20 +16,6 @@ I build products end to end with **TypeScript, React, Next.js, Node.js and FastA
 
 ---
 
-### 🚀 Featured work
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**FFCS-inator**](https://github.com/krishitag/ffcs-agent) · [live](https://ffcs.codechefvit.com) | CodeChef-VIT's timetable planner, used by **30,000+ students**. I built an AI agent that turns *"no 8am, Friday free"* into a clash-free timetable. The LLM plans and code verifies every result. | Next.js · LangGraph.js · Gemini · Zod |
-| [**Transaction Risk Platform**](https://github.com/krishitag/TransactionTracker) · [live](https://transaction-risk-monitor.vercel.app) | Scores card transactions for risk and explains each score in plain English. Includes an AI analyst that answers questions and cites the transactions it used. | FastAPI · Next.js · PostgreSQL · MongoDB Vector Search · Claude API |
-| [**Papers by CodeChef-VIT**](https://github.com/CodeChefVIT/papers-codechef) · [live](https://papers.codechefvit.com) | Previous-year exam papers for **10,000+ students**. I worked on search, filters and the upload pipeline to cloud storage. | Next.js · MongoDB · Google Cloud Storage |
-| [**FlowLens**](https://github.com/krishitag/flowlens) | Real-time network intrusion detection that explains every alert as traffic arrives, shown on a live dashboard. | Python · LightGBM · Isolation Forest · TreeSHAP · Streamlit |
-| [**Syscall Anomaly Detection**](https://github.com/krishitag/syscall-anomaly-detection) | Catches suspicious behaviour inside Docker containers by tracing system calls with eBPF and scoring them with an autoencoder. | Python · eBPF · Docker · Autoencoders |
-| [**MediSlot**](https://github.com/krishitag/medislot) | Clinic appointments and billing, with all business rules enforced inside the database through PL/SQL, triggers and packages. | Oracle · Node.js · Express · React |
-| [**Lab PC Fit Checker**](https://github.com/krishitag/Lab-PC-Software-Fit-Checker) | Checks a project's software needs against lab PC specs and explains why each machine passes or fails. | React · TypeScript |
-
----
-
 ### 🛠️ Languages and tools
 
 <p align="center">
@@ -44,6 +30,20 @@ I build products end to end with **TypeScript, React, Next.js, Node.js and FastA
   <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-00684A?style=flat-square&logo=mongodb&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
+
+---
+
+### Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**FFCS-inator**](https://github.com/krishitag/ffcs-agent) · [live](https://ffcs.codechefvit.com) | CodeChef-VIT's timetable planner, used by **30,000+ students**. I built an AI agent that turns *"no 8am, Friday free"* into a clash-free timetable. The LLM plans and code verifies every result. | Next.js · LangGraph.js · Gemini · Zod |
+| [**Transaction Risk Platform**](https://github.com/krishitag/TransactionTracker) · [live](https://transaction-risk-monitor.vercel.app) | Scores card transactions for risk and explains each score in plain English. Includes an AI analyst that answers questions and cites the transactions it used. | FastAPI · Next.js · PostgreSQL · MongoDB Vector Search · Claude API |
+| [**Papers by CodeChef-VIT**](https://github.com/CodeChefVIT/papers-codechef) · [live](https://papers.codechefvit.com) | Previous-year exam papers for **10,000+ students**. I worked on search, filters and the upload pipeline to cloud storage. | Next.js · MongoDB · Google Cloud Storage |
+| [**FlowLens**](https://github.com/krishitag/flowlens) | Real-time network intrusion detection that explains every alert as traffic arrives, shown on a live dashboard. | Python · LightGBM · Isolation Forest · TreeSHAP · Streamlit |
+| [**Syscall Anomaly Detection**](https://github.com/krishitag/syscall-anomaly-detection) | Catches suspicious behaviour inside Docker containers by tracing system calls with eBPF and scoring them with an autoencoder. | Python · eBPF · Docker · Autoencoders |
+| [**MediSlot**](https://github.com/krishitag/medislot) | Clinic appointments and billing, with all business rules enforced inside the database through PL/SQL, triggers and packages. | Oracle · Node.js · Express · React |
+| [**Lab PC Fit Checker**](https://github.com/krishitag/Lab-PC-Software-Fit-Checker) | Checks a project's software needs against lab PC specs and explains why each machine passes or fails. | React · TypeScript |
 
 ---
 
