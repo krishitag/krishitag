@@ -2,11 +2,7 @@
 
 # Hey, I'm Krishita 👋
 
-<a href="https://github.com/krishitag">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Full-stack+engineer+building+AI+products;LLM+agents%2C+RAG+%26+vector+search;Shipping+tools+used+by+30%2C000%2B+students;ML+for+network+%26+systems+security" alt="Typing SVG" />
-</a>
-
-**CS @ VIT · Full-stack + AI**
+**Full-stack + AI engineer · LLM agents · RAG · CS @ VIT**
 
 </div>
 
